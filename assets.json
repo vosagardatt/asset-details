@@ -1,0 +1,299 @@
+[
+ {
+   "ASSET ID": "VO/D-001",
+   "ASSIGNEE NAME": "Kishan Raval",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-8700 Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-002",
+   "ASSIGNEE NAME": "Mihir Vadodariya",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4570T Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-003",
+   "ASSIGNEE NAME": "Nirav Patel",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4570T Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-004",
+   "ASSIGNEE NAME": "Lakshay Panchal",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-005",
+   "ASSIGNEE NAME": "Arif Khan",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4590T Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-006",
+   "ASSIGNEE NAME": "Aman Mansuri",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6400T Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-007",
+   "ASSIGNEE NAME": "Dhruvi Bhimani",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6400T Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-008",
+   "ASSIGNEE NAME": "Harsh Shah",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4570T Processor | 16GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-009",
+   "ASSIGNEE NAME": "Neha Prajapati",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor | 16GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": "Given from Moksha"
+ },
+ {
+   "ASSET ID": "VO/D-010",
+   "ASSIGNEE NAME": "Krupali Rachhadiya",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor | 16GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-011",
+   "ASSIGNEE NAME": "Samir Khan",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor | 16GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-012",
+   "ASSIGNEE NAME": "Dhara Joshi",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-013",
+   "ASSIGNEE NAME": "Ashish Shah",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-014",
+   "ASSIGNEE NAME": "Rahul Godha",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700  Processor | 32GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-015",
+   "ASSIGNEE NAME": "Shivam Swaraj",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-016",
+   "ASSIGNEE NAME": "Eshwari Barbuddhe",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-017",
+   "ASSIGNEE NAME": "Subhadip Maji",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-018",
+   "ASSIGNEE NAME": "Kunal Ruparel",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-019",
+   "ASSIGNEE NAME": "Rishi Solanki",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-020",
+   "ASSIGNEE NAME": "Manish Sharma",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-021",
+   "ASSIGNEE NAME": "Mayur Solanki",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-022",
+   "ASSIGNEE NAME": "Tapan Shukla",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-023",
+   "ASSIGNEE NAME": "Manish Vishwakarma",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-024",
+   "ASSIGNEE NAME": "Nihal Sharma",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-025",
+   "ASSIGNEE NAME": "Urvashi Nirmal",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-026",
+   "ASSIGNEE NAME": "Kiran Umale",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-027",
+   "ASSIGNEE NAME": "Mital Vaniya",
+   "DEPARTMENT": "Ado/SNS",
+   "SYSTEM TYPE": "Lenovo ThinkCenter",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6400T Processor | 8GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-028",
+   "ASSIGNEE NAME": "Bharvi Zala",
+   "DEPARTMENT": "Ado/SNS",
+   "SYSTEM TYPE": "Lenovo ThinkCenter",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-029",
+   "ASSIGNEE NAME": "Shiv Rajpurohit",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo ThinkCenter",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
+   "STATUS": "Active",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-030",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "Ado/SNS",
+   "SYSTEM TYPE": "Lenovo ThinkCenter",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
+   "STATUS": "Unassigned",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-031",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "Ado/SNS",
+   "SYSTEM TYPE": "Lenovo ThinkCenter",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
+   "STATUS": "Unassigned",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-032",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "Ado/SNS",
+   "SYSTEM TYPE": "Lenovo ThinkCenter",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
+   "STATUS": "Unassigned",
+   "REMARKS": ""
+ },
+ {
+   "ASSET ID": "VO/D-033",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "Ado/SNS",
+   "SYSTEM TYPE": "Lenovo ThinkCenter",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6400T Processor | 8GB RAM | 1TB SSD",
+   "STATUS": "Unassigned",
+   "REMARKS": ""
+ }
+]
