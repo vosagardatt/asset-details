@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asset Management System</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root { --o: #FF6B00; --b: #000; --w: #FFF; }
+        body { margin: 0; font-family: 'Outfit', sans-serif; background: #eef2f5; display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 20px; }
+        .bg { position: fixed; inset: 0; z-index: -1; filter: blur(100px); }
+        .blob { position: absolute; border-radius: 50%; opacity: 0.3; animation: m 15s infinite alternate; }
+        @keyframes m { to { transform: translate(50px, 50px); } }
+        .card { width: 100%; max-width: 800px; background: rgba(255,255,255,0.4); backdrop-filter: blur(50px); -webkit-backdrop-filter: blur(50px); border: 2px solid rgba(255,255,255,0.6); border-radius: 40px; padding: 40px; box-shadow: 0 40px 80px rgba(0,0,0,0.1); }
+        header { display: flex; align-items: center; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid rgba(0,0,0,0.1); }
+        header img { height: 60px; }
+        header h1 { font-size: 24px; font-weight: 700; color: var(--b); text-transform: uppercase; margin: 0; }
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+        .i { background: rgba(255,255,255,0.3); padding: 20px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.5); }
+        .full { grid-column: 1 / -1; }
+        label { font-size: 11px; color: var(--o); text-transform: uppercase; letter-spacing: 2px; font-weight: 700; display: block; margin-bottom: 5px; }
+        .v { font-size: 17px; color: var(--b); line-height: 1.4; }
+        .status { color: var(--o); font-weight: 700; }
+        @media (max-width: 700px) {
+            header { flex-direction: column; text-align: center; }
+            .grid { grid-template-columns: 1fr; }
+            .card { padding: 25px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="bg">
+        <div class="blob" style="width:500px; height:500px; background:var(--o); top:-10%; right:-5%;"></div>
+        <div class="blob" style="width:400px; height:400px; background:var(--b); bottom:-10%; left:-5%;"></div>
+    </div>
+    <div class="card">
+        <header>
+            <img src="https://virtualops.net/wp-content/uploads/2022/12/logo-dark.png" alt="Logo">
+            <h1>Asset Management System</h1>
+        </header>
+        <div class="grid">
+            <div class="i"><label>Asset ID</label><div class="v">#VO-PR-2024-088</div></div>
+            <div class="i"><label>Assignee Name</label><div class="v">Alex Henderson</div></div>
+            <div class="i"><label>Department</label><div class="v">Engineering Operations</div></div>
+            <div class="i"><label>System Type</label><div class="v">Workstation Laptop</div></div>
+            <div class="i full"><label>System Configuration</label><div class="v">Apple M3 Max Chip, 64GB Unified Memory, 2TB SSD, 16-inch Liquid Retina XDR</div></div>
+            <div class="i"><label>Status</label><div class="v status">Actively Deployed</div></div>
+            <div class="i full"><label>Remarks</label><div class="v">Next hardware audit scheduled for December 2024. Includes accidental damage protection.</div></div>
+        </div>
+    </div>
+</body>
+</html>
