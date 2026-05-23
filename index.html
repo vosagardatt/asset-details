@@ -48,7 +48,7 @@
             <div class="i full"><label>Remarks</label><div class="v" id="remarks"></div></div>
         </div>
     </div>
-  <script>
+<script>
 const params = new URLSearchParams(window.location.search);
 const assetId = params.get("id");
 
@@ -57,33 +57,48 @@ fetch('assets.json')
   .then(data => {
 
     const asset = data.find(
-      item => item.assetId === assetId
+      item => item["ASSET ID"] === assetId
     );
 
     if(asset){
 
       document.getElementById("asset").innerText =
-        asset.assetId;
+        asset["ASSET ID"];
 
       document.getElementById("employee").innerText =
-        asset.employeeName;
+        asset["ASSIGNEE NAME"];
 
       document.getElementById("department").innerText =
-        asset.department;
+        asset["DEPARTMENT"];
 
       document.getElementById("type").innerText =
-        asset.productType;
+        asset["SYSTEM TYPE"];
 
       document.getElementById("config").innerText =
-        asset.configuration;
+        asset["SYSTEM CONFIGURATION"];
 
       document.getElementById("status").innerText =
-        asset.status;
+        asset["STATUS"];
 
       document.getElementById("remarks").innerText =
-        asset.remarks;
+        asset["REMARKS"] || "No remarks";
+
+    } else {
+
+      document.querySelector(".grid").innerHTML =
+      "<h2 style='text-align:center;'>Asset Not Found</h2>";
+
     }
+
+  })
+  .catch(error => {
+
+    console.error(error);
+
+    document.querySelector(".grid").innerHTML =
+    "<h2 style='text-align:center;'>Error Loading Data</h2>";
+
   });
-</script>  
+</script>
 </body>
 </html>
