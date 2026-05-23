@@ -48,5 +48,42 @@
             <div class="i full"><label>Remarks</label><div class="v" id="remarks"></div></div>
         </div>
     </div>
+  <script>
+const params = new URLSearchParams(window.location.search);
+const assetId = params.get("id");
+
+fetch('assets.json')
+  .then(response => response.json())
+  .then(data => {
+
+    const asset = data.find(
+      item => item.assetId === assetId
+    );
+
+    if(asset){
+
+      document.getElementById("asset").innerText =
+        asset.assetId;
+
+      document.getElementById("employee").innerText =
+        asset.employeeName;
+
+      document.getElementById("department").innerText =
+        asset.department;
+
+      document.getElementById("type").innerText =
+        asset.productType;
+
+      document.getElementById("config").innerText =
+        asset.configuration;
+
+      document.getElementById("status").innerText =
+        asset.status;
+
+      document.getElementById("remarks").innerText =
+        asset.remarks;
+    }
+  });
+</script>  
 </body>
 </html>
