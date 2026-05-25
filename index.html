@@ -39,7 +39,7 @@
 <script>
     const id = new URLSearchParams(window.location.search).get("id");
     fetch('assets.json').then(r => r.json()).then(data => {
-        const a = data.find(i => i.assetId === id);
+        const a = data.find(i => i.assetId.trim() === id.trim());
         if(a) {
             Object.keys(a).forEach(k => { if(document.getElementById(k)) document.getElementById(k).innerText = a[k] || "-"; });
         } else {
