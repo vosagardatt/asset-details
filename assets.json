@@ -1,266 +1,515 @@
 [
  {
-   "assetId": "VO-D-001",
-   "assigneeName": "Kishan Raval",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i7-8700 Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-001",
+   "ASSIGNEE NAME": "Aniruddha Sharma",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-001"
  },
  {
-   "assetId": "VO-D-002",
-   "assigneeName": "Mihir Vadodariya",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-4570T Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-002",
+   "ASSIGNEE NAME": "Vidhi Mewada",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-002"
  },
  {
-   "assetId": "VO-D-003",
-   "assigneeName": "Nirav Patel",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-4570T Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-003",
+   "ASSIGNEE NAME": "Digpal Rathod",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Dell Latitude 5400 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8265 Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-003"
  },
  {
-   "assetId": "VO-D-004",
-   "assigneeName": "Lakshay Panchal",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-8500T Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-004",
+   "ASSIGNEE NAME": "Divya Vitthodiya",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-004"
  },
  {
-   "assetId": "VO-D-005",
-   "assigneeName": "Arif Khan",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-4590T Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-005",
+   "ASSIGNEE NAME": "Hetvi Shah",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-005"
  },
  {
-   "assetId": "VO-D-006",
-   "assigneeName": "Aman Mansuri",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-6400T Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-006",
+   "ASSIGNEE NAME": "Sagar Datt",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L480 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8250U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-006"
  },
  {
-   "assetId": "VO-D-007",
-   "assigneeName": "Dhruvi Bhimani",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-6400T Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-007",
+   "ASSIGNEE NAME": "Hitesh Gothal",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L480 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8250U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-007"
  },
  {
-   "assetId": "VO-D-008",
-   "assigneeName": "Harsh Shah",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-4570T Processor | 16GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-008",
+   "ASSIGNEE NAME": "Harsh Singh",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-008"
  },
  {
-   "assetId": "VO-D-009",
-   "assigneeName": "Neha Prajapati",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-8500T Processor | 16GB RAM | 512GB SSD",
-   "remarks": "Given from Moksha"
+   "ASSET ID": "VO-L-009",
+   "ASSIGNEE NAME": "Kunjan Parmar",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "Battery Issue - to be repaired",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-009"
  },
  {
-   "assetId": "VO-D-010",
-   "assigneeName": "Krupali Rachhadiya",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-8500T Processor | 16GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-010",
+   "ASSIGNEE NAME": "Shraddha Gupta",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L480 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8250U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-010"
  },
  {
-   "assetId": "VO-D-011",
-   "assigneeName": "Samir Khan",
-   "department": "2D Design",
-   "systemType": "2D Workstation",
-   "systemConfiguration": "Intel Core i5-8500T Processor | 16GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-011",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L470 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-7300U Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "Performance issue",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-011"
  },
  {
-   "assetId": "VO-D-012",
-   "assigneeName": "Dhara Joshi",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-012",
+   "ASSIGNEE NAME": "Nazmeen Shaikh",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-012"
  },
  {
-   "assetId": "VO-D-013",
-   "assigneeName": "Ashish Shah",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-013",
+   "ASSIGNEE NAME": "Neeraj Singh",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-013"
  },
  {
-   "assetId": "VO-D-014",
-   "assigneeName": "Rahul Godha",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700  Processor | 32GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-014",
+   "ASSIGNEE NAME": "Vandana Sharma",
+   "DEPARTMENT": "HR",
+   "SYSTEM TYPE": "Lenovo L450 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i5-5300U  Processor | 8GB RAM | 256B SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-014"
  },
  {
-   "assetId": "VO-D-015",
-   "assigneeName": "Shivam Swaraj",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-015",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "",
+   "SYSTEM TYPE": "Lenovo T440 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400 Processor | 8GB RAM | 256GB SSD",
+   "REMARKS": "Battery Issue, slow performance issue",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-015"
  },
  {
-   "assetId": "VO-D-016",
-   "assigneeName": "Eshwari Barbuddhe",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-016",
+   "ASSIGNEE NAME": "Mohit Dhaker",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo P53 Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7 9th Gen Processor | 32GB RAM | 1TB SSD | 4GB GPU",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-016"
  },
  {
-   "assetId": "VO-D-017",
-   "assigneeName": "Subhadip Maji",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-017",
+   "ASSIGNEE NAME": "Jyoti Karamchandani",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-017"
  },
  {
-   "assetId": "VO-D-018",
-   "assigneeName": "Kunal Ruparel",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-018",
+   "ASSIGNEE NAME": "Richa Jha",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "Assigned from Tejasvi to Richa on 27/11",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-018"
  },
  {
-   "assetId": "VO-D-019",
-   "assigneeName": "Rishi Solanki",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-019",
+   "ASSIGNEE NAME": "Surbhi Agrawal",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-019"
  },
  {
-   "assetId": "VO-D-020",
-   "assigneeName": "Manish Sharma",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-020",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo L460 Laptop",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6300U Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "Performance issue",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-020"
  },
  {
-   "assetId": "VO-D-021",
-   "assigneeName": "Mayur Solanki",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-021",
+   "ASSIGNEE NAME": "Shaneel Parekh",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo L480 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8350 Processor | 8GB RAM | 240GB SSD",
+   "REMARKS": "New Rental 12/01",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-021"
  },
  {
-   "assetId": "VO-D-022",
-   "assigneeName": "Tapan Shukla",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-022",
+   "ASSIGNEE NAME": "Niladri Roy",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Lenovo L480 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i7-8550U Processor | 16GB RAM | 1TB SSD",
+   "REMARKS": "New Rental 03/25/2026",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-022"
  },
  {
-   "assetId": "VO-D-023",
-   "assigneeName": "Manish Vishwakarma",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-023",
+   "ASSIGNEE NAME": "Moksha Shah",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "Lenovo L490 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i7-8565U Processor | 16GB RAM | 1TB SSD",
+   "REMARKS": "New Rental April'26",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-023"
  },
  {
-   "assetId": "VO-D-024",
-   "assigneeName": "Nihal Sharma",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-L-024",
+   "ASSIGNEE NAME": "Kishan Raval",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "Lenovo L480 Laptop | Rental",
+   "SYSTEM CONFIGURATION": "Intel Core i7-8550U Processor | 16GB RAM | 1TB SSD",
+   "REMARKS": "New Rental 05/20/2026",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-L-024"
  },
  {
-   "assetId": "VO-D-025",
-   "assigneeName": "Urvashi Nirmal",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-001",
+   "ASSIGNEE NAME": "Kishan Raval",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "Lenovo (Customized Tower) | 2D Workstation | Purchased",
+   "SYSTEM CONFIGURATION": "Intel Core i7-8700 Processor|16GB RAM|1TB SSD|NVIDIA GeForce RTX 730 (4GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-001"
  },
  {
-   "assetId": "VO-D-026",
-   "assigneeName": "Kiran Umale",
-   "department": "3D Design",
-   "systemType": "3D Workstation",
-   "systemConfiguration": "Intel Core i7-9700 Processor | 32GB RAM | 512GB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-002",
+   "ASSIGNEE NAME": "Mihir Vadodariya",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-002"
  },
  {
-   "assetId": "VO-D-027",
-   "assigneeName": "Mital Vaniya",
-   "department": "Ado/SNS",
-   "systemType": "Lenovo ThinkCenter",
-   "systemConfiguration": "Intel Core i5-6400T Processor | 8GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-003",
+   "ASSIGNEE NAME": "Nirav Patel",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-003"
  },
  {
-   "assetId": "VO-D-028",
-   "assigneeName": "Bharvi Zala",
-   "department": "Ado/SNS",
-   "systemType": "Lenovo ThinkCenter",
-   "systemConfiguration": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-004",
+   "ASSIGNEE NAME": "Lakshay Panchal",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-004"
  },
  {
-   "assetId": "VO-D-029",
-   "assigneeName": "Shiv Rajpurohit",
-   "department": "Content",
-   "systemType": "Lenovo ThinkCenter",
-   "systemConfiguration": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-005",
+   "ASSIGNEE NAME": "Arif Khan",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-005"
  },
  {
-   "assetId": "VO-D-030",
-   "assigneeName": "Unassigned",
-   "department": "Ado/SNS",
-   "systemType": "Lenovo ThinkCenter",
-   "systemConfiguration": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-006",
+   "ASSIGNEE NAME": "Aman Mansuri",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-006"
  },
  {
-   "assetId": "VO-D-031",
-   "assigneeName": "Unassigned",
-   "department": "Ado/SNS",
-   "systemType": "Lenovo ThinkCenter",
-   "systemConfiguration": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-007",
+   "ASSIGNEE NAME": "Dhruvi Bhimani",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-007"
  },
  {
-   "assetId": "VO-D-032",
-   "assigneeName": "Unassigned",
-   "department": "Ado/SNS",
-   "systemType": "Lenovo ThinkCenter",
-   "systemConfiguration": "Intel Core i5-4400T Processor | 8GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-008",
+   "ASSIGNEE NAME": "Harsh Shah",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-008"
  },
  {
-   "assetId": "VO-D-033",
-   "assigneeName": "Unassigned",
-   "department": "Ado/SNS",
-   "systemType": "Lenovo ThinkCenter",
-   "systemConfiguration": "Intel Core i5-6400T Processor | 8GB RAM | 1TB SSD",
-   "remarks": ""
+   "ASSET ID": "VO-D-009",
+   "ASSIGNEE NAME": "Neha Prajapati",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|512GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-009"
+ },
+ {
+   "ASSET ID": "VO-D-010",
+   "ASSIGNEE NAME": "Mayank Rana",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|512GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-010"
+ },
+ {
+   "ASSET ID": "VO-D-011",
+   "ASSIGNEE NAME": "Samir Khan",
+   "DEPARTMENT": "2D Design",
+   "SYSTEM TYPE": "HP EliteDesk 800 G4 | 2D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i5-8500T Processor|16GB RAM|512GB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-011"
+ },
+ {
+   "ASSET ID": "VO-D-012",
+   "ASSIGNEE NAME": "Dhara Joshi",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "HP EliteDesk Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|1TB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-012"
+ },
+ {
+   "ASSET ID": "VO-D-013",
+   "ASSIGNEE NAME": "Ashish Shah",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "HP EliteDesk Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|1TB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-013"
+ },
+ {
+   "ASSET ID": "VO-D-014",
+   "ASSIGNEE NAME": "Rahul Godha",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "HP EliteDesk Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|1TB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-014"
+ },
+ {
+   "ASSET ID": "VO-D-015",
+   "ASSIGNEE NAME": "Shivam Swaraj",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "HP EliteDesk Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-015"
+ },
+ {
+   "ASSET ID": "VO-D-016",
+   "ASSIGNEE NAME": "Eshwari Barbuddhe",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "HP EliteDesk Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-016"
+ },
+ {
+   "ASSET ID": "VO-D-017",
+   "ASSIGNEE NAME": "Subhadip Maji",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "HP EliteDesk Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-017"
+ },
+ {
+   "ASSET ID": "VO-D-018",
+   "ASSIGNEE NAME": "Kunal Ruparel",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "HP EliteDesk Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-018"
+ },
+ {
+   "ASSET ID": "VO-D-019",
+   "ASSIGNEE NAME": "Rishi Solanki",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-019"
+ },
+ {
+   "ASSET ID": "VO-D-020",
+   "ASSIGNEE NAME": "Manish Sharma",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-020"
+ },
+ {
+   "ASSET ID": "VO-D-021",
+   "ASSIGNEE NAME": "Mayur Solanki",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-021"
+ },
+ {
+   "ASSET ID": "VO-D-022",
+   "ASSIGNEE NAME": "Tapan Shukla",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-022"
+ },
+ {
+   "ASSET ID": "VO-D-023",
+   "ASSIGNEE NAME": "Manish Vishwakarma",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Tower | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-023"
+ },
+ {
+   "ASSET ID": "VO-D-024",
+   "ASSIGNEE NAME": "Nihal Sharma",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Dell OptiPlex 3070 | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-024"
+ },
+ {
+   "ASSET ID": "VO-D-025",
+   "ASSIGNEE NAME": "Urvashi Nirmal",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Dell OptiPlex 3070 | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-025"
+ },
+ {
+   "ASSET ID": "VO-D-026",
+   "ASSIGNEE NAME": "Kiran Umale",
+   "DEPARTMENT": "3D Design",
+   "SYSTEM TYPE": "Dell OptiPlex 3070 | 3D Workstation",
+   "SYSTEM CONFIGURATION": "Intel Core i7-9700 Processor|32GB RAM|512GB SSD|NVIDIA GeForce RTX 3050 (6 GB)",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-026"
+ },
+ {
+   "ASSET ID": "VO-D-027",
+   "ASSIGNEE NAME": "Mital Vaniya",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Mini PC",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6400T Processor|8GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-027"
+ },
+ {
+   "ASSET ID": "VO-D-028",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "Adorama / LPSNS",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Mini PC",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor|8GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-028"
+ },
+ {
+   "ASSET ID": "VO-D-029",
+   "ASSIGNEE NAME": "Shiv Rajpurohit",
+   "DEPARTMENT": "Content",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Mini PC",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor|8GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-029"
+ },
+ {
+   "ASSET ID": "VO-D-030",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Mini PC",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor|8GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-030"
+ },
+ {
+   "ASSET ID": "VO-D-031",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Mini PC",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor|8GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-031"
+ },
+ {
+   "ASSET ID": "VO-D-032",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Mini PC",
+   "SYSTEM CONFIGURATION": "Intel Core i5-4400T Processor|8GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-032"
+ },
+ {
+   "ASSET ID": "VO-D-033",
+   "ASSIGNEE NAME": "Unassigned",
+   "DEPARTMENT": "",
+   "SYSTEM TYPE": "Lenovo ThinkCentre Mini PC",
+   "SYSTEM CONFIGURATION": "Intel Core i5-6400T Processor|8GB RAM|1TB SSD",
+   "REMARKS": "",
+   "Link": "https://vosagardatt.github.io/asset-details/?id=VO-D-033"
  }
 ]
